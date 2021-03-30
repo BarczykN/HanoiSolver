@@ -1,0 +1,3 @@
+C:/Users/nbarc/CLionProjects/HanoiSolver/cmake-build-debug/CMakeFiles/projekcik.dir
+C:/Users/nbarc/CLionProjects/HanoiSolver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nbarc/CLionProjects/HanoiSolver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
